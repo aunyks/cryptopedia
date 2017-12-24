@@ -12,7 +12,7 @@
 
 * Merkle Tree - A tree constructed by hashing paired data (the leaves), then continuing to pair and hash the results until a single hash remains the merkle root. in blockchains, merkle tree's are used to maintain security and allow nodes to easily verify transactions and store them.
 
-* ASIC Mining - ASICs, or [A]pplication [S]pecific [I]ntegrated [C]ircuits, are computer chips design to execute one task efficiently and quickly. One example of an ASIC is an ASIC designated only to a certain hashing function. ASIC's have an advantage over regular computer chips. However, some cryptocurrencies are ASIC resistant and ASIC's do not have any advantage over other chips.
+* ASIC Mining - ASICs, or [A]pplication [S]pecific [I]ntegrated [C]ircuits, are computer chips design to execute one task efficiently and quickly. One example of an ASIC is an ASIC designated only to a certain hashing function. ASICs have an advantage over regular computer chips. However, some cryptocurrencies are ASIC resistant and ASICs do not have any advantage over other chips.
 
 * Fork - The creation of an alternative version of the current blockchain. Forks are created when there is a bug, new set of rules, or a 51% attack.
 
